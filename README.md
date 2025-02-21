@@ -1,13 +1,16 @@
 # Zooniverse Glitch Classification
 This document provides an overview of the main functionalities and functions included in each Python file created for managing projects, subject sets, and data exports in Panoptes.
 
-## Installation 
+## Project Setup 
 
 Make sure you have installed python3 by checking
 `$ python --version && pip --version`
 
-Then run the following to install zooniverse Python client
-`$ pip install panoptescli`
+Then install required dependencies by running:
+`$ pip install -r requirements.txt`
+
+You can verify that the packages have been installed correctly by running:
+`$ pip list`
 
 ## Project Structure 
 ## 1. Project Initializer

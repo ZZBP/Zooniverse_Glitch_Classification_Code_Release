@@ -1,5 +1,9 @@
-# Zooniverse Glitch Classification
-This document provides an overview of the main functionalities and functions included in each Python file created for managing projects, subject sets, and data exports in Panoptes.
+# Zooniverse Glitch Classification Pipeline
+
+This document provides an overview of the key functionalities and the functions included in each Python file developed for managing projects, subject sets, and data exports in Panoptes. This repository offers examples and instructions for creating a Zooniverse project with a custom data pipeline.
+
+For regular setup tasks such as adding label classes and descriptions of workflows that can be performed directly through the platform's user interface, please refer to the official Zooniverse documentation: [Zooniverse Getting Started Guide](https://help.zooniverse.org/getting-started/).
+
 
 ## Project Setup 
 
